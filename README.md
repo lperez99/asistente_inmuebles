@@ -6,7 +6,7 @@ Este proyecto es un **asistente virtual para encontrar inmuebles** en arriendo o
 
 ## 🚀 ¿Qué hace este proyecto?
 
-1. 🔍 **Scrapea propiedades** desde portales web como [Finca Raíz](https://fincaraiz.com.co) y [Metrocuadrado](https://metrocuadrado.com).
+1. 🔍 **Scrapea propiedades** desde el portal web [Finca Raíz](https://fincaraiz.com.co) 
 2. 🧠 **Filtra resultados** según tus criterios (ubicación, tipo, precio, etc).
 3. 🗺️ **Calcula la distancia** desde cada propiedad a un punto de interés (por ejemplo, tu oficina).
 4. 📊 **Guarda los resultados** automáticamente en una hoja de cálculo de Google Sheets.
